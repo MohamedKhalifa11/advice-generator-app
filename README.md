@@ -10,7 +10,7 @@ A simple React web application that provides random pieces of advice. Users can 
 
 ## Demo
 
-[View Demo](https://advice-generator-m11.netlify.app/)
+You can interact with the web app using the demo link from here: [View Demo](https://advice-generator-m11.netlify.app/)
 
 ## Installation
 
