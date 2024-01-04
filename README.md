@@ -16,8 +16,9 @@ You can interact with the web app using the demo link from here: [View Demo](htt
 
 To run this project locally you should install the react js library and then run the app after downloading it.
 
-## Technologies Used
+## Built with
 
+- HTML5
 - React js (**useState, UseEffect and useRef**)
 - CSS
 - Google Fonts (Manrope)
